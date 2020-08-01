@@ -2,7 +2,7 @@
 
 I'm Geri. I do almost everything from modeling, to programming.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyh&hide=html" alt="Top Langs">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyh&hide=html&bg_color=1C2125&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=86400" alt="Top Langs">
 
 **Languages:**
 
