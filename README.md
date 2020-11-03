@@ -23,6 +23,7 @@ I'm Geri. I do stuff.
 ![](https://img.shields.io/badge/-VS_Code-1C2125?style=for-the-badge&labelColor=007ACC&logo=Visual-Studio-Code&logoColor=white&color=1C2125)
 ![](https://img.shields.io/badge/-Vim-1C2125?style=for-the-badge&labelColor=019733&logo=Vim&logoColor=white&color=1C2125)
 
+![](https://raw.githubusercontent.com/weyh/weyh/master/chika.gif)
 <details>
   <summary> </summary>
   <img src="https://raw.githubusercontent.com/weyh/weyh/master/chika.gif">
