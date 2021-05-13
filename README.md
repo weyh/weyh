@@ -12,8 +12,6 @@ I'm Geri. I do stuff.
 **Frameworks:**
 
 ![](https://img.shields.io/badge/-Unity-1C2125?style=for-the-badge&labelColor=1C2125&logo=Unity&logoColor=white&color=1C2125)
-![](https://img.shields.io/badge/-UWP-1C2125?style=for-the-badge&labelColor=007BD1&logo=windows&logoColor=white&color=1C2125)
-![](https://img.shields.io/badge/-WPF-1C2125?style=for-the-badge&labelColor=007BD1&logo=windows&logoColor=white&color=1C2125)
 ![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=React&logoColor=1C2125&color=1C2125)
 
 **Tools:**
