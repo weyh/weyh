@@ -1,6 +1,10 @@
-# Hello there 👋
+
+<img align="left" height="350" alt="" src="https://raw.githubusercontent.com/weyh/weyh/main/justice.gif">
+
+## Hello there 👋
 
 I'm Geri. I do stuff.
+
 
 **Languages:**
 
@@ -20,8 +24,3 @@ I'm Geri. I do stuff.
 ![](https://img.shields.io/badge/-Visual_Studio-1C2125?style=for-the-badge&labelColor=5C2D91&logo=Visual-Studio&logoColor=white&color=1C2125)
 ![](https://img.shields.io/badge/-VS_Code-1C2125?style=for-the-badge&labelColor=007ACC&logo=Visual-Studio-Code&logoColor=white&color=1C2125)
 ![](https://img.shields.io/badge/-Vim-1C2125?style=for-the-badge&labelColor=019733&logo=Vim&logoColor=white&color=1C2125)
-
-<details>
-  <summary> </summary>
-  <img src="https://raw.githubusercontent.com/weyh/weyh/main/chika.gif">
-</details>
