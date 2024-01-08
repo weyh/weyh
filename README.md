@@ -1,5 +1,5 @@
 
-<img align="left" height="380" alt="justice" src="https://raw.githubusercontent.com/weyh/weyh/main/justice.gif">
+<img align="left" height="430" alt="justice" src="https://raw.githubusercontent.com/weyh/weyh/main/justice.gif">
 
 ## Hello there 👋
 
