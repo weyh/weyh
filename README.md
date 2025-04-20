@@ -1,9 +1,9 @@
 
 <img align="left" height="430" alt="justice" src="https://raw.githubusercontent.com/weyh/weyh/main/justice.gif">
 
-## Hello there 👋
+### Hello there 👋
 
-I'm Geri. I do stuff.
+I'm Gergely. I do stuff.
 
 #### Languages:
 
