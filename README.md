@@ -1,6 +1,6 @@
 <img align="left" height="430" alt="justice" src="https://raw.githubusercontent.com/weyh/weyh/main/justice.gif">
 
-<h2 style="border-bottom: 0;">Hello there 👋</h2>
+<h3 style="font-size: 30px">Hello there 👋</h3>
 
 I'm Geri. I do stuff.
 
