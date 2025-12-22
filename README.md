@@ -3,7 +3,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1> Hello there 👋 </h1>
+      <h2> Hello there 👋 </h2>
     </summary>
   </ul>
 </div>
