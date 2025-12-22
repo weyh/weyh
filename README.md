@@ -1,6 +1,12 @@
 <img align="left" height="430" alt="justice" src="https://raw.githubusercontent.com/weyh/weyh/main/justice.gif">
 
-<h3 style="font-size: 30px">Hello there 👋</h3>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Hello there 👋 </h1>
+    </summary>
+  </ul>
+</div>
 
 I'm Geri. I do stuff.
 
