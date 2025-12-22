@@ -1,8 +1,6 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
 <img align="left" height="430" alt="justice" src="https://raw.githubusercontent.com/weyh/weyh/main/justice.gif">
 
-## Hello there 👋
+<h2 style="border-bottom: 0;">Hello there 👋</h2>
 
 I'm Geri. I do stuff.
 
