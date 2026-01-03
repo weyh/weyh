@@ -10,7 +10,7 @@ I'm Geri. I do stuff.
 
 #### Frameworks:
 
-[![frameworks](https://skillicons.dev/icons?i=react,angular,unity,pytorch)](https://github.com/weyh)
+[![frameworks](https://skillicons.dev/icons?i=react,angular,pytorch,unity,godot)](https://github.com/weyh)
 
 #### Tools:
 
